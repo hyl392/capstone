@@ -31,6 +31,7 @@ I also wanted to get things started on the layout and features of the app that I
 
 <img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week1_4.jpg" width="50%"> 
 ### Next steps 
+
 1. Narrow down options, organise filming and phototaking of the dishes    
-2. Work out app details, what I want to include in the app as features and layout -- document this    
-3. Work out the logistics of making the book, I'm thinking of using Adobe InDesign or something of the sort   
+1. Work out app details, what I want to include in the app as features and layout -- document this    
+1. Work out the logistics of making the book, I'm thinking of using Adobe InDesign or something of the sort   
