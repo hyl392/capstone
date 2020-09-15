@@ -15,12 +15,19 @@ A recipe book of my grandma's famous dishes accompanied with a mobile app that i
 
 ### Class discussion
 Sharing my idea with the class was very helpful because it allowed me to think about details a lot more deeply, especially when it comes to thinking about my project's audience.
-(insert summary here)   
+* how can I include a storytelling aspect to my project? how do I make the story more than applicable to myself/family? do I need the story to be applicable to anybody beyond?
+* who is my audience exactly? perhaps Taiwanese/Hakka students living abroad or descendants living abroad
+
+Ideas I will look more into:
+* acute APP --> artists with AR pieces
+* social practice art --> bringing food to galleries
 
 ### Prototype
 For this week, one of my goals is to come up with a list of dishes that I want to potentially include in my project. In the style of my grandma, recipes will be from all courses, culminating to a full course meal. Below is are pictures of lists (in Chinese but will be translated!) of main courses, soups, desserts that I could include.
 
 <img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week1_1.jpg" width="50%"><img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week1_2.jpg" width="50%">
-<img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week1_3.jpg" width="50%">
+<img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week1_3.jpg" width="50%"> 
+
+I also wanted to get things started on the layout and features of the app that I want to create. I've started to look into creating prototypes of mobile apps through InVision Studio and hope to get started using this once I have some features planned out and a potential layout.
 
 
