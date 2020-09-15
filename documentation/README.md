@@ -23,3 +23,4 @@ For this week, one of my goals is to come up with a list of dishes that I want t
 ![photo1](/documentation/images/week1_1.jpg | width="60%")
 ![photo2](/documentation/images/week1_2.jpg)
 ![photo3](/documentation/images/week1_3.jpg)
+<img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week1_1.jpg" width="60%">
