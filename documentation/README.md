@@ -20,6 +20,6 @@ Sharing my idea with the class was very helpful because it allowed me to think a
 ### Prototype
 For this week, one of my goals is to come up with a list of dishes that I want to potentially include in my project. In the style of my grandma, recipes will be from all courses, culminating to a full course meal. Below is are pictures of lists (in Chinese but will be translated!) of main courses, soups, desserts that I could include.
 
-![photo1](/documentation/images/week1_1.jpg)
+![photo1](/documentation/images/week1_1.jpg | width=60)
 ![photo2](/documentation/images/week1_2.jpg)
 ![photo3](/documentation/images/week1_3.jpg)
