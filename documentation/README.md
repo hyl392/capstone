@@ -30,6 +30,7 @@ For this week, one of my goals is to come up with a list of dishes that I want t
 I also wanted to get things started on the layout and features of the app that I want to create. I've started to look into creating prototypes of mobile apps through InVision Studio and hope to get started using this once I have some features planned out and a potential layout.
 
 <img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week1_4.jpg" width="50%"> 
+
 ### Next steps 
 
 1. Narrow down options, organise filming and phototaking of the dishes    
