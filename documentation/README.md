@@ -36,3 +36,11 @@ I also wanted to get things started on the layout and features of the app that I
 1. Narrow down options, organise filming and phototaking of the dishes    
 1. Work out app details, what I want to include in the app as features and layout -- document this    
 1. Work out the logistics of making the book, I'm thinking of using Adobe InDesign or something of the sort   
+
+## Week 2
+### The week full of question marks, more question marks, and more question marks, squared
+The feedback that I received last week was pretty helpful in making me think more on what it is exactly that I want to achieve with my project. Although this is something I'm still trying to work out, Gabi and Alex really made me realise how much the audience matters in our projects. The questions about who my audience is that stemmed from our first Capstone Seminar class still looms over my project. I think for now it will be a looming question, and it won't be until I really get to the more intense designing part of the project for me to decide the answer to that question. 
+
+### Prototype
+For this week, my goal was to start wireframing and thinking about how I want my features to be laid out for both the book and the app and which interactions I wanted to include. I'm still trying to get my hands on technology that I think would really help me in my design process, but in the meantime brainstorming and wireframing will be my main focus points. 
+
