@@ -44,5 +44,12 @@ The feedback that I received last week was pretty helpful in making me think mor
 ### Prototype
 For this week, my goal was to start wireframing and thinking about how I want my features to be laid out for the app and which interactions I wanted to include. I'm still trying to get my hands on technology that I think would really help me in my design process, but in the meantime brainstorming and wireframing will be my main focus points. 
 
-Here are some of the wireframes that I'm working on and short descriptions of the elements on the pages 
+Here are some of the wireframes that I'm working on and short descriptions of the elements on the pages: 
 <img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week2_1.jpg" width="50%"><img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week2_2.jpg" width="50%"><img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week2_3.jpg" width="50%"><img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week2_4.jpg" width="50%">  
+
+### Next steps 
+The next steps are roughly the same from last week's and are as follows:
+
+1. Narrow down options, organise filming and phototaking of the dishes    
+1. Work out app details, what I want to include in the app as features and layout -- keep working on the wireframes    
+1. Work out the logistics of making the book, I'm thinking of using Adobe InDesign or something of the sort 
