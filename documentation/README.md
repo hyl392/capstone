@@ -65,9 +65,5 @@ This week, I started to use InVision Studio to visualise a part of my app that I
 
 Here is a video of the interactions that I have between the two pages so far: 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true">
-    <source src="https://github.com/hyl392/capstone/blob/master/documentation/images/week3_3.mov" type="video/mp4">
-    <source src="https://github.com/hyl392/capstone/blob/master/documentation/images/week3_3.mov" type="video/ogg">
-    <source src="https://github.com/hyl392/capstone/blob/master/documentation/images/week3_3.mov" type="video/webm">
-  </video>
+  <iframe src="https://github.com/hyl392/capstone/blob/master/documentation/images/week3_3.mov" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
