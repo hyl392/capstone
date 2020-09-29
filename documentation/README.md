@@ -64,9 +64,6 @@ This week, I started to use InVision Studio to visualise a part of my app that I
 <img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week3_1.png" width="50%"><img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week3_2.png" width="50%"> 
 
 Here is a video of the interactions that I have between the two pages so far: 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/ozejh_yeY1o" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
+[![Alt text](https://youtu.be/ozejh_yeY1o)](https://youtu.be/ozejh_yeY1o)
+
 
