@@ -62,3 +62,12 @@ The feedback that I received last week gave me a lot of new ideas for features t
 This week, I started to use InVision Studio to visualise a part of my app that I had drawn up last week. I focused on the Main Section #2 and #3 (seen in the above photos from last week's prototype). This is obviously a very rough idea with minimal design elements of what I want the structure to kind of be like. 
 
 <img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week3_1.png" width="50%"><img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week3_2.png" width="50%"> 
+
+Here is a video of the interactions that I have between the two pages so far: 
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true">
+    <source src="https://github.com/hyl392/capstone/blob/master/documentation/images/week3_3.mov" type="video/mp4">
+    <source src="https://github.com/hyl392/capstone/blob/master/documentation/images/week3_3.mov" type="video/ogg">
+    <source src="https://github.com/hyl392/capstone/blob/master/documentation/images/week3_3.mov" type="video/webm">
+  </video>
+</figure>
