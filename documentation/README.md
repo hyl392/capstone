@@ -65,6 +65,8 @@ This week, I started to use InVision Studio to visualise a part of my app that I
 
 Here is a video of the interactions that I have between the two pages so far: 
 <!-- blank line -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ozejh_yeY1o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/ozejh_yeY1o" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 <!-- blank line -->
 
