@@ -60,4 +60,5 @@ The feedback that I received last week gave me a lot of new ideas for features t
 
 ### Prototype
 This week, I started to use InVision Studio to visualise a part of my app that I had drawn up last week. I focused on the Main Section #2 and #3 (seen in the above photos from last week's prototype). This is obviously a very rough idea with minimal design elements of what I want the structure to kind of be like. 
+
 <img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week3_1.png" width="50%"><img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week3_2.png" width="50%"> 
