@@ -53,3 +53,11 @@ The next steps are roughly the same from last week's and are as follows:
 1. Narrow down options, organise filming and phototaking of the dishes    
 1. Work out app details, what I want to include in the app as features and layout -- keep working on the wireframes    
 1. Work out the logistics of making the book, I'm thinking of using Adobe InDesign or something of the sort 
+
+## Week 3
+### The week where I started putting things together
+The feedback that I received last week gave me a lot of new ideas for features that I could potentially include in my project. Particularly, adding audio in the app to potentially allow the experience of using the app to be more nostalgic and sharing memories associated with the recipes, perhaps through an AR version of a re-telling of the stories. 
+
+### Prototype
+This week, I started to use InVision Studio to visualise a part of my app that I had drawn up last week. I focused on the Main Section #2 and #3 (seen in the above photos from last week's prototype). This is obviously a very rough idea with minimal design elements of what I want the structure to kind of be like. 
+<img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week3_1.png" width="50%"><img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week3_2.png" width="50%"> 
