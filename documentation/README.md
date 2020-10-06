@@ -66,4 +66,10 @@ This week, I started to use InVision Studio to visualise a part of my app that I
 Here is a video of the interactions that I have between the two pages so far: 
 https://youtu.be/ozejh_yeY1o
 
+## Week 4
+### Prototype
+This week, I continued to work on my prototype that I started to work on in Week 3. However, to showcase the progress that I made this week, after talking to Heather during our meeting, I wanted to document the some of the ways I want users to enjoy the experiences that I am creating. I decided that a fun way to do so would be through a comic strip. 
 
+<img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week4_1.jpg" width="50%"><img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week4_2.jpg" width="50%"><img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week4_3.jpg" width="50%"> 
+
+I first wanted to try and draw using the iPad, but without an Apple Pencil I realised how hard this was and so decided to do so on paper. However, I couldn't manage to scan the pages clear enough and so had to draw some bits over again on the iPad. I hope that the quality doesn't hinder the ability to understand the comic though!
