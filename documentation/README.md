@@ -1,5 +1,18 @@
 # Documentation of Capstone Process
-## Week 1
+* [Week 1](#week1)
+* [Week 2](#week2)
+* [Week 3](#week3)
+* [Week 4](#week4)
+* [Week 5](#week5)
+* [Week 6](#week6)
+* [Week 7](#week7)
+* [Week 8](#week8)
+* [Week 9](#week9)
+* [Week 10](#week10) 
+
+Note: Week numbers do not necessarily correspond to the weeks in the Fall semester, rather they are just fillers for day of reflection. 
+
+## <a name="week1"></a> Week 1
 ### The week full of question marks, more question marks, and more question marks
 Scrapping an idea and coming up with a completely new one is honestly kind of scary. I'm just glad that this process literally came before Capstone Seminar even began. Due to not being on campus and having access to a "large" open space and without the materials that I usually would have access to, I decided to switch from a physical project to producing something that is smaller in scale and more feasible for me to accomplish from home.   
 
@@ -37,7 +50,7 @@ I also wanted to get things started on the layout and features of the app that I
 1. Work out app details, what I want to include in the app as features and layout -- document this    
 1. Work out the logistics of making the book, I'm thinking of using Adobe InDesign or something of the sort   
 
-## Week 2
+## <a name="week2"></a>Week 2
 ### The week full of question marks, more question marks, and more question marks, squared
 The feedback that I received last week was pretty helpful in making me think more on what it is exactly that I want to achieve with my project. Although this is something I'm still trying to work out, Gabi and Alex really made me realise how much the audience matters in our projects. The questions about who my audience is that stemmed from our first Capstone Seminar class still looms over my project. I think for now it will be a looming question, and it won't be until I really get to the more intense designing part of the project for me to decide the answer to that question. 
 
@@ -54,7 +67,7 @@ The next steps are roughly the same from last week's and are as follows:
 1. Work out app details, what I want to include in the app as features and layout -- keep working on the wireframes    
 1. Work out the logistics of making the book, I'm thinking of using Adobe InDesign or something of the sort 
 
-## Week 3
+## <a name="week3"></a>Week 3
 ### The week where I started putting things together
 The feedback that I received last week gave me a lot of new ideas for features that I could potentially include in my project. Particularly, adding audio in the app to potentially allow the experience of using the app to be more nostalgic and sharing memories associated with the recipes, perhaps through an AR version of a re-telling of the stories. 
 
@@ -66,10 +79,22 @@ This week, I started to use InVision Studio to visualise a part of my app that I
 Here is a video of the interactions that I have between the two pages so far: 
 https://youtu.be/ozejh_yeY1o
 
-## Week 4
+## <a name="week4"></a>Week 4
 ### Prototype
 This week, I continued to work on my prototype that I started to work on in Week 3. However, to showcase the progress that I made this week, after talking to Heather during our meeting, I wanted to document the some of the ways I want users to enjoy the experiences that I am creating. I decided that a fun way to do so would be through a comic strip. 
 
 <img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week4_1.jpg" width="50%"><img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week4_2.jpg" width="50%"><img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week4_3.jpg" width="50%"> 
 
 I first wanted to try and draw using the iPad, but without an Apple Pencil I realised how hard this was and so decided to do so on paper. However, I couldn't manage to scan the pages clear enough and so had to draw some bits over again on the iPad. I hope that the quality doesn't hinder the ability to understand the comic though!
+
+## <a name="week5"></a>Week 5
+### Prototype
+
+## <a name="week6"></a>Week 6
+### Prototype
+
+## <a name="week7"></a>Week 7
+### Prototype
+
+## <a name="week8"></a>Week 8
+### Prototype
