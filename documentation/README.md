@@ -4,7 +4,7 @@
 * [Week 3](#week3)
 * [Week 4](#week4)
 * [Week 5](#week5)
-* [Week 6](#week6)
+* [Week 6 — Reflection](#week6)
 * [Week 7](#week7)
 * [Week 8](#week8)
 * [Week 9](#week9)
@@ -100,7 +100,23 @@ Schafer’s project also inspired me to consider the idea of rolling back time. 
 
 
 ## <a name="week6"></a>Week 6
-### Prototype
+### General reflection
+I think my Capstone process so far has been quite slow because I had a lot of question marks in my mind that I couldn't really figure out the answer to. I realise that I was dwelling on figuring out detailed answers in the hope that once I started doing the heavy work, I wouldn’t have to “waste my efforts”. However, I think this is the wrong mentality and that I should start to create and make real certain ideas that I have rather than to just think about them. I think something that is really hindering me from working much on my Capstone is that I’m worried that I don’t have the necessary skills to implement the AR components that make the experience “interesting”, but of course, if I don’t try I’ll never know, so it’s better to get started with it in the first place. 
+
+### What have I made so far?
+I have started the process of making the recipe book and have also started filming the dishes. I realised that if I were to be back on campus next semester, I’d have to capture all the cooking components this semester before I leave so that I could do something with them and have content for when I have to actually create the App and have content. I narrowed down the dishes that I had brainstormed in the first week to about 10. In terms of the historical and cultural aspects of the book and the app, I still haven’t narrowed down what it is I want to include but this is something I will most definitely have narrowed down after speaking in-depth with my grandma. 
+
+I have also started the process of working with Unity to play around with the image recognition feature to try and understand how the AR features I have envisioned in my artist paper are feasible. The artist paper gave me a lot of ideas that I want to try and prototype out to see how the user interactions are and to see if it makes sense to include. This will definitely be a priority. 
+
+In regards to the app itself, I have also played around with the features and the layout a little. However, this part is very subject to change as I think I’m changing the purpose of the app itself. I have continued to sketch out ideas as I have them. I've realised that what I have prototyped here so far is not how I now envision the project to be like anymore and so will change this accordingly. 
+
+### Getting feedback
+I wanted to get some feedback and ideas from others with whom I haven't talked to them about my Capstone before just so that I could get another perspective on my project and my ideas. I have talked to a few people so far and have had some interesting discussions regarding the purpose of the book and the purpose of the app and what they can do together. Originally I had wanted the app to be a stand alone app where without the book, the app could still function on its own. However, I have decided to restrict the app being a standalone in that I want the users to be using it with the book most of the time, i.e. some of the features would only be available if the book was used as well. I have found and realised that I really want the book to play a role in my project, even though it just seems like a not-so-technological piece. 
+
+### Next steps:
+I think what would really give me inspiration for the different AR components that I could implement in the app is by having an interview with my grandma. I think because this is her story and love that I want to document, I should have an in depth conversation with her about everything so that I really portray “her” through the app. 
+
+I need to start working on the Unity components and play around with those and focus less on the design aspects as I do think whatever I need to get done in Unity is the most important right now to figure out. I definitely want to experiment with the idea of overlaid cooking, where the user is able to use their phone to check whether what they are cooking aligns with what it’s supposed to look like. I have a collection of images and videos that I have filmed so far that I could grab to experiment with this. 
 
 ## <a name="week7"></a>Week 7
 ### Prototype
