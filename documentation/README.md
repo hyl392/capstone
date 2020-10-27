@@ -106,6 +106,10 @@ I think my Capstone process so far has been quite slow because I had a lot of qu
 ### What have I made so far?
 I have started the process of making the recipe book and have also started filming the dishes. I realised that if I were to be back on campus next semester, I’d have to capture all the cooking components this semester before I leave so that I could do something with them and have content for when I have to actually create the App and have content. I narrowed down the dishes that I had brainstormed in the first week to about 10. In terms of the historical and cultural aspects of the book and the app, I still haven’t narrowed down what it is I want to include but this is something I will most definitely have narrowed down after speaking in-depth with my grandma. 
 
+Example: 
+
+<img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week6.png" width="50%"> 
+
 I have also started the process of working with Unity to play around with the image recognition feature to try and understand how the AR features I have envisioned in my artist paper are feasible. The artist paper gave me a lot of ideas that I want to try and prototype out to see how the user interactions are and to see if it makes sense to include. This will definitely be a priority. 
 
 In regards to the app itself, I have also played around with the features and the layout a little. However, this part is very subject to change as I think I’m changing the purpose of the app itself. I have continued to sketch out ideas as I have them. I've realised that what I have prototyped here so far is not how I now envision the project to be like anymore and so will change this accordingly. 
