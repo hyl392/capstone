@@ -123,7 +123,8 @@ I think what would really give me inspiration for the different AR components th
 I need to start working on the Unity components and play around with those and focus less on the design aspects as I do think whatever I need to get done in Unity is the most important right now to figure out. I definitely want to experiment with the idea of overlaid cooking, where the user is able to use their phone to check whether what they are cooking aligns with what it’s supposed to look like. I have a collection of images and videos that I have filmed so far that I could grab to experiment with this. 
 
 ## <a name="week7"></a>Week 7
-### Prototype
+### Working on the filming process and recipe book 
+<img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week7_1.png" width="50%"><img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week7_2.jpg" width="50%"> 
 
 ## <a name="week8"></a>Week 8
 ### Prototype
