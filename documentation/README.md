@@ -124,6 +124,7 @@ I need to start working on the Unity components and play around with those and f
 
 ## <a name="week7"></a>Week 7
 ### Working on the filming/photographing process and recipe book
+This week I mainly focused on getting the initial parts of Unity to work (albeit it running very slowly), but mostly working on the filming process and the recipe book. I'm planning to get the filming done this month so I can get started on the Unity and app part more intensely after this. 
 <img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week7_1.png" width="50%"> 
 <img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week7_2.jpg" width="50%"> 
 
