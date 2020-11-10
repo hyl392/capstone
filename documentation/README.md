@@ -130,5 +130,12 @@ This week I mainly focused on getting the initial parts of Unity to work (albeit
 <img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week7_1.png" width="50%"> 
 <img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week7_2.jpg" width="50%"> 
 
-## <a name="week8"></a>Week 8
+## <a name="week8"></a>Week 8 
+### Getting started with Unity and more designing, preparing for the extended critique
+This week, I allocated some Capstone work time to sorting out my budget and figuring out the equipment and items that I would need to make my project come to fruition. In addition to this week, I finally got Unity to run properly on my laptop since I first installed it. Since my extended critique is this week, I wanted to try to create something that I could show to the class in addition to the designs that I have just explained through words, and sometimes through drawings. Part of preparing the slides for the extended critique was also creating images of the designs that I was envisioning. I think this the process of putting these images together gave myself a better idea of the feasibility of each design as well as the concepts in general. I'm honestly really looking forward to getting in-depth feedback from my peers as I think it would really help me gain more motivation and momemtum to work on my project. 
+
+<a href="https://docs.google.com/presentation/d/1LhDIzRYIvks_4jW8fRf1DZfsqTVhSi7iMQzT5S34huA/edit?usp=sharing">Here</a> is the link to the presentation that I have prepared for my extended critique.
+
+
 ### Prototype
+
