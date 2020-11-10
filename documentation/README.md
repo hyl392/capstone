@@ -136,6 +136,8 @@ This week, I allocated some Capstone work time to sorting out my budget and figu
 
 <a href="https://docs.google.com/presentation/d/1LhDIzRYIvks_4jW8fRf1DZfsqTVhSi7iMQzT5S34huA/edit?usp=sharing">Here</a> is the link to the presentation that I have prepared for my extended critique.
 
-
 ### Prototype
+I have included here two images that I have added into my presentation. These two are two of the AR uses that I came up with after doing my artist research paper.  
 
+<img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week8_1.png" width="50%"> 
+<img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week8_2.jpg" width="50%"> 
