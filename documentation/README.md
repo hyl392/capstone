@@ -139,5 +139,5 @@ This week, I allocated some Capstone work time to sorting out my budget and figu
 ### Prototype
 I have included here two images that I have added into my presentation. These two are two of the AR uses that I came up with after doing my artist research paper.  
 
-<img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week8_1.png" width="50%"> 
-<img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week8_2.jpg" width="50%"> 
+<img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week8_1.png" width="80%"> 
+<img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week8_2.png" width="80%"> 
