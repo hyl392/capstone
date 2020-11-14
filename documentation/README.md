@@ -165,7 +165,8 @@ Themes and content:
 - counter movement to instagram food bloggers, not the point of the food = rebellion 
 
 What does it mean?
-- relatability — extended family ties, series of local cookbooks around the world —> globalizing 
+- relatability — extended family ties, series of local cookbooks around the world —> globalising 
+    - https://www.bonappetit.com/story/recipe-writing-whitewashed
 - add your own recipe?
     - more social —> connecting people with the same background 
     - upload their results
@@ -199,5 +200,9 @@ How well does it succeed?
 - interview language,
     - toggles for switching between languages 
 
-https://www.bonappetit.com/story/recipe-writing-whitewashed
+Sum-up:
+- Possibility of making the app more social -- open for the user to share 
+- Keep the homemade vibe to it 
+- Involve different types of multimedia into the project (i.e. audio, video)
+
 
