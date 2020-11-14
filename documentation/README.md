@@ -141,3 +141,63 @@ I have included here two images that I have added into my presentation. These tw
 
 <img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week8_1.png" width="80%"> 
 <img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week8_2.png" width="80%"> 
+
+### Extended critique feedback
+This next part is just my documenting of all the comments that I noted down when during my extended critique. 
+
+What does it look like:
+- cookbook and app
+- cookbook about grandma’s recipes 
+- share grandma’s love for cooking
+- homemade vibe to it -aesthetics of being something close to home
+    - speaks on a more intimate level 
+    - impression of the grandmother 
+    - personal touch
+    - keep plate and cutting board!
+    - aesthetic food with homesy vibe — contrast was nice
+- feature of comparing, does my food look right now — super different from other cookbooks
+    - timeline — pauses can have interviews with grandma 
+
+Themes and content:
+- strong theme of feeling homesick — maybe include some "inside jokes" that are recognised by taiwanese
+- archiving the culture of people, document family history and legacy 
+    - artifact that will be there always 
+- counter movement to instagram food bloggers, not the point of the food = rebellion 
+
+What does it mean?
+- relatability — extended family ties, series of local cookbooks around the world —> globalizing 
+- add your own recipe?
+    - more social —> connecting people with the same background 
+    - upload their results
+    - reviews 
+    - expat doesn’t have ingredients available — having a note from another person about foods that can’t be brought about replacements 
+        - notes 
+- personal — users dont need to interact — like how its personal, emerges modern technology with traditional aspects 
+    - valuable aspects, write your own tips in the cookbook 
+- how social do i want to make the app 
+    - goal of connecting expats: people nearby who are cooking this recipe or looking at it 
+- be cautious of social part - heather 
+    - moderation concerns 
+    - limited interactions — express not hate but love 
+- important to not be marketed as taiwanese cuisine and this is how my grandma makes it 
+    - a lot more interesting to focus on the personal details 
+
+How well does it succeed?
+- succeeds of targeting Taiwanese expats 
+    - second generation — link to grandma and grandpa 
+- gradual progress of how to cook the meal and the progress
+    - hardest part of cooking is knowing process 
+- clearer to see a video 
+    - value of sound — sizzling sounds 
+- plane resolution opacity/ translucent 
+    - won’t be able to see through it well 
+    - mixed up if ontop overlay 
+- stories
+- stressed cooking, touching 
+- audio file, real time audio step by step cooking 
+    - podcast about the food 
+- interview language,
+    - toggles for switching between languages 
+
+https://www.bonappetit.com/story/recipe-writing-whitewashed
+
