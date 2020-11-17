@@ -214,4 +214,4 @@ This week, I was working on a prototype for the tab system that I have in my app
 Below is a very rough tab system picture with arbitrary colours for the tabs for testing purposes as well as a food shot! 
 
 <img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week9_1.png" width="50%"> 
-<img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week9_2.png" width="50%"> 
+<img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week9_2.JPG" width="50%"> 
