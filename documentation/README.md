@@ -211,6 +211,7 @@ I have finally got a rough enough estimate of the amount of money that I would n
 
 ### Prototype
 This week, I was working on a prototype for the tab system that I have in my app, as well as filming some more food shots and videos. 
-Below is a very rough tab system picture with arbitrary colours for the tabs for testing purposes. 
+Below is a very rough tab system picture with arbitrary colours for the tabs for testing purposes as well as a food shot! 
 
-<img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week9_1.png" width="80%"> 
+<img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week9_1.png" width="50%"> 
+<img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week9_2.png" width="50%"> 
