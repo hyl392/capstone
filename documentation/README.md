@@ -217,4 +217,24 @@ Below is a very rough tab system picture with arbitrary colours for the tabs for
 <img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week9_2.JPG" width="50%"> 
 
 ## <a name="week10"></a>Week 10 
-### I took a break, and this is what happened... ###
+### Before I took a break ###
+During the Winter Break, I knew that it was important for me to finish filming all of the dishes that I wanted to capture the cooking of so that by the time I came back to campus, I had all the filming standardised and finished. By the time that I finished filming, I had captured 17 dishes. The previous idea was for me to be able to capture some footage or do some audio recordings of my grandmother explaining and describing her stories but do to unforseen reasons with her health, I was unable to do so. In terms of the storytelling aspect (which will be expanded upon later), I will be doing the voiceovers instead of my grandmother. It was also before the Spring semester started that my budget came in and despite having to make some adjustments, at least the budget side of capstone is settled. 
+
+I had also attempted to try and cook with the phone in my hand just to see what the experience is like for the user if they were to use my app. After dropping my phone into the pan in which then I accidentally cracked my screen protector and fried my phone and its case (yes the surface is still very rough at the areas that were fried), I realised that this is completely not feasible and I had to change that aspect of my project immediately. This became one of the main reasons why I decided to change up the app component of the project. 
+
+### After I took a break: new changes and beginnings ###
+I had tried very hard to get myself into the right mindset to work on Capstone over the Winter Break and before the Spring semester started but I had some trouble emotionally dealing with situations going on back home. Capstone, as it is based on and dedicated to my grandmother, reminded me of what was happening and I, therefore, had avoided it for a long period of time. Now, however, I realise that I want to focus on the storytelling aspect of my project even more than before. To do so, I am making some (quite drastic) changes to my Capstone project which I will highlight using the images below    
+
+<img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week10_1.jpg" width="50%"> 
+<img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week10_2.jpg" width="50%">   
+<img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week10_3.jpg" width="50%">   
+
+### Storytelling as the focus ###
+As the images rougly explain, the app will now rely solely and totally on the cookbook (i.e. no longer as a standalone that I had originally planned for it to be). I decided to do so because I really wanted to bring out the storytelling aspect using AR, which I felt were pretty superficial and only used for practical purposes in my previous design. As the images above also suggest, the app will retain the timeline aspect of the AR design that I previously had because I think that this design is one of the main processes in the app that culd really enhance and bring out the cooking experience that is not found in cookbooks and cooking apps alone. 
+
+I realise that 17 dishes is very ambitious, especially because I want to have the augmented reality aspect of the storytelling that could last anywhere from 30 seconds to 2 minutes each. For the purposes of my capstone, I will aim to have at least 5 dishes down with well-made AR stories instead of trying to have more quantity but less quality. 
+
+### Goals for next week ###
+By next week, I'm going to have:
+* created a base project on Unity: at least familiarise myself with the image detection part of the app, but having a nice interface would be ideal 
+* designed and storyboard at least two of the AR stories
