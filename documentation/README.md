@@ -9,7 +9,7 @@
 * [Week 7](#week7)
 * [Week 8 — Extended Critique](#week8)
 * [Week 9](#week9)
-* [Week 10](#week10) 
+* [Week 10 — I took a break, and this is what happened...](#week10) 
 
 Note: Week numbers do not necessarily correspond to the weeks in the Fall semester, rather they are just fillers for day of reflection. 
 
@@ -215,3 +215,6 @@ Below is a very rough tab system picture with arbitrary colours for the tabs for
 
 <img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week9_1.png" width="50%"> 
 <img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week9_2.JPG" width="50%"> 
+
+## <a name="week10"></a>Week 10 
+### I took a break, and this is what happened... ###
