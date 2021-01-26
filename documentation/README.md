@@ -223,10 +223,10 @@ During the Winter Break, I knew that it was important for me to finish filming a
 I had also attempted to try and cook with the phone in my hand just to see what the experience is like for the user if they were to use my app. After dropping my phone into the pan in which then I accidentally cracked my screen protector and fried my phone and its case (yes the surface is still very rough at the areas that were fried), I realised that this is completely not feasible and I had to change that aspect of my project immediately. This became one of the main reasons why I decided to change up the app component of the project. 
 
 ### After I took a break: new changes and beginnings ###
-I had tried very hard to get myself into the right mindset to work on Capstone over the Winter Break and before the Spring semester started but I had some trouble emotionally dealing with situations going on back home. Capstone, as it is based on and dedicated to my grandmother, reminded me of what was happening and I, therefore, had avoided it for a long period of time. Now, however, I realise that I want to focus on the storytelling aspect of my project even more than before. To do so, I am making some (quite drastic) changes to my Capstone project which I will highlight using the images below    
+I had tried very hard to get myself into the right mindset to work on Capstone over the Winter Break and before the Spring semester started but I had some trouble emotionally dealing with situations going on back home. Capstone, as it is based on and dedicated to my grandmother, reminded me of what was happening and I, therefore, had avoided it for a long period of time. Now, however, I realise that I want to focus on the storytelling aspect of my project even more than before. To do so, I am making some (quite drastic) changes to my Capstone project which I will highlight using the images below:    
 
-<img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week10_1.jpg" width="50%"> 
-<img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week10_2.jpg" width="50%">   
+<img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week10_1.jpg" width="50%"><img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week10_2.jpg" width="50%">
+This image below is my planning of the AR stories that I could potentially focus on. They're all looking very food-based at the moment but I'm going through it to find places where I could include my grandmother's personal stories as well:
 <img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week10_3.jpg" width="50%">   
 
 ### Storytelling as the focus ###
