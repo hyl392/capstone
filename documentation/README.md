@@ -244,8 +244,10 @@ By next week, I'm going to have:
 ### Progress ###
 This week, I worked on refamiliarising myself with the image detection part of the app. I realised that I had quite a lot of images that needed to be detected and they needed to be sensitive detections, and so researched for different ways that image detection could be made possible to a high efficacy rate that is not the ARKit that is part of Unity. I watched some videos explaining Vuforia, which I had heard of and recognise but have never used before and so decided to build my first image detection prototype using the Vuforia extension on Unity. 
 
-For the prototype this week, I wanted to see if I could get videos to play and be augmented on top of images. Videos would be one component of what would be augmented in my app experiencing. These were the two reference images that I used, which are the first frames of the videos, and the results are shown in the video below:
+For the prototype this week, I wanted to see if I could get videos to play and be augmented on top of images. Videos would be one component of what would be augmented in my app experiencing. These were the two reference images that I used, which are the first frames of the videos, and the results are shown in the video below: 
+
 <img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week11_1.jpg" width="50%"><img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week11_2.jpg" width="50%">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9j24t28iVvI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+[![capstone app prototype 1](https://img.youtube.com/vi/9j24t28iVvI/0.jpg)](https://www.youtube.com/watch?v=9j24t28iVvI)
 
 As can be seen towards the end of the video where I deliberately tried to document some recognition problems, because my images were very similar (and on Vuforia it gives you ratings for how good the quality of an image is for identifying) and were not "complicated" they got misread a lot and so sometimes would not "disappear" when the images were no longer on the screen and/or the videos overlapped each other. This is something that I will definitely be aware of when when I choose images as my references. 
