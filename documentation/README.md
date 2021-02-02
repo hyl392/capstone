@@ -258,7 +258,8 @@ I have finalised the stories that I want to show but still have no idea how I wa
 * have a many layered image where when users scan the page of the book, the image will become 3D. An audio file will accompany this to tell a story but the image is stationary and will not change (i.e. not a gif or a video)
 * having an augmented 2D background onto the page and have characters (2D or 3D) that are augmented to tell a story (dialogue and everything is pre-determined) 
 * simple videos (easiest but so boring and defeats the purpose of using AR)
-* have a many layered image that users can interact with to further a story along 
+* have a many layered image that users can interact with to further a story along  
+
 There are also many styles that I could go about creating the augmented stories:
 * cartoon/animation
 * collage from pictures 
