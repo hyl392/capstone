@@ -241,13 +241,31 @@ By next week, I'm going to have:
 * designed and storyboard at least two of the AR stories
 
 ## <a name="week11"></a>Week 11
-### Progress ###
+### App progress ###
 This week, I worked on refamiliarising myself with the image detection part of the app. I realised that I had quite a lot of images that needed to be detected and they needed to be sensitive detections, and so researched for different ways that image detection could be made possible to a high efficacy rate that is not the ARKit that is part of Unity. I watched some videos explaining Vuforia, which I had heard of and recognise but have never used before and so decided to build my first image detection prototype using the Vuforia extension on Unity. 
 
 For the prototype this week, I wanted to see if I could get videos to play and be augmented on top of images. Videos would be one component of what would be augmented in my app experiencing. These were the two reference images that I used, which are the first frames of the videos: 
 
 <img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week11_1.jpg" width="50%"><img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week11_2.jpg" width="50%">
-The results are shown in this video below: 
+The results are shown in this video below:  
+
 [![capstone app prototype 1](https://img.youtube.com/vi/9j24t28iVvI/0.jpg)](https://www.youtube.com/watch?v=9j24t28iVvI)
 
 As can be seen towards the end of the video where I deliberately tried to document some recognition problems, because my images were very similar (and on Vuforia it gives you ratings for how good the quality of an image is for identifying) and were not "complicated" they got misread a lot and so sometimes would not "disappear" when the images were no longer on the screen and/or the videos overlapped each other. This is something that I will definitely be aware of when when I choose images as my references. 
+
+### Stories progress ###
+I have finalised the stories that I want to show but still have no idea how I want them to be augmented. There are currently a few options that I have thought of which I will experiment with for next week:
+* have a many layered image where when users scan the page of the book, the image will become 3D. An audio file will accompany this to tell a story but the image is stationary and will not change (i.e. not a gif or a video)
+* having an augmented 2D background onto the page and have characters (2D or 3D) that are augmented to tell a story (dialogue and everything is pre-determined) 
+* simple videos (easiest but so boring and defeats the purpose of using AR)
+* have a many layered image that users can interact with to further a story along 
+There are also many styles that I could go about creating the augmented stories:
+* cartoon/animation
+* collage from pictures 
+* realistic (I cannot draw so this will be very hard)
+
+### Goals for next week ###
+By next week, I'm going to have:
+* continued to prototype the app 
+* finish the first draft of the cookbook 
+* prototype the different augmented story designs -- especially the styles to see what fits better with the book
