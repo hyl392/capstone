@@ -10,6 +10,7 @@
 * [Week 8 — Extended Critique](#week8)
 * [Week 9](#week9)
 * [Week 10 — I took a break, and this is what happened...](#week10) 
+* [Week 11](#week11)
 
 Note: Week numbers do not necessarily correspond to the weeks in the Fall semester, rather they are just fillers for day of reflection. 
 
@@ -238,3 +239,6 @@ I realise that 17 dishes is very ambitious, especially because I want to have th
 By next week, I'm going to have:
 * created a base project on Unity: at least familiarise myself with the image detection part of the app, but having a nice interface would be ideal 
 * designed and storyboard at least two of the AR stories
+
+## <a name="week11"></a>Week 11
+### Progress ###
