@@ -270,3 +270,7 @@ By next week, I'm going to have:
 * continued to prototype the app 
 * finish the first draft of the cookbook 
 * prototype the different augmented story designs -- especially the styles to see what fits better with the book
+
+Goals for capstone in general:
+* come up with a new timeline
+* narrow down who I want on my panel!
