@@ -280,7 +280,21 @@ Goals for capstone in general:
 I decided to reach out to Laura this week to ask if I could talk to her about her artworks, inspirations, and how she works on her projects in the hopes to get a better sense of direction with my own project. As I mentioned last week, I was very stuck on what style I want my augmented stories to be like and especially what form they should take. Despite sketching these designs out, I still had no clue what to do. Talking to Laura was soooooo helpful! Although we didn't explicitly talk about how exactly my project would look, she pointed some examples to me of artists and projects I could look at and some general ways I could go about implementing my ideas and putting them in a way that I could make a prototype out of (not just sketches). I came out of the meeting feeling very inspired to work on my project, and a couple of hours after the meeting, I was set on what I wanted my AR experience to look like. I will show a bit of this in the app progress section below. 
 
 ### Who do I want on my panel? ###
-One of my goals from last week was to narrow down who I want on my panel. 
+One of my goals from last week was to narrow down who I want on my panel and after speaking with Laura, I thought that it would be great if she could be on the panel team just because like Heather, she is someone that inspires me. (Also I'm so glad Heather will be on the panel as well!!) I also think that Sarah is a great person to ask because of her expertise in AR/VR as well as in storytelling, but that's very TBD. 
 
+### App progress ###
+After talking to Laura, I finally narrowed down my idea and the direction that I want to go down! I watned to ahve some sort of pop-up book effect that happens in AR and one of the ways I thought to do so was to have a 2D image split into different layers that are arranged in different depths so that when the viewer looks at the page through the screen, the multi-layered image will appear 3D. My idea is to have this 2D made 3D image have some sort of animation that plays that accompanies that audio story that comes with it. The images are and will be illustrated using Procreate and further recoloured and filled (this part is very important because exporting as different layers, especially when cutting out a main character, will leave out strangely-shaped bits of each layer, thus, requiring extra filling up) using Photoshop. These layers are then exported as .png files and used in Unity. 
 
-* finish the first draft of the cookbook 
+Below is a sketch of what I want to do with the experience with the different parts of the cookbook:
+<img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week12_1.jpg" width="50%"> 
+
+Here is a video of one of my grandmother's stories working. I don't have the animation feature in this video yet, but please imaging that the watering can is moving and water is coming out:
+[![capstone app prototype 2](https://img.youtube.com/vi/dGU6nmZe2e4/0.jpg)](https://www.youtube.com/watch?v=dGU6nmZe2e4) 
+
+For this one story, I haven't done the animation part yet but it took me around 6 hours to make. I think the more I do it though the faster that it'll get!
+
+### Goals for next week ###
+By next week, I'm going to have:
+* finish the first draft of the cookbook so that I could get the correct image anchors working 
+* finish the animation part of the first augmented experience 
+* illustrate a second story and have the layers transported into Unity
