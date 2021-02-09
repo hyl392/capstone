@@ -288,7 +288,8 @@ After talking to Laura, I finally narrowed down my idea and the direction that I
 Below is a sketch of what I want to do with the experience with the different parts of the cookbook:
 <img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week12_1.jpg" width="50%"> 
 
-Here is a video of one of my grandmother's stories working. I don't have the animation feature in this video yet, but please imaging that the watering can is moving and water is coming out:
+Here is a video of one of my grandmother's stories working. I don't have the animation feature in this video yet, but please imaging that the watering can is moving and water is coming out: 
+
 [![capstone app prototype 2](https://img.youtube.com/vi/dGU6nmZe2e4/0.jpg)](https://www.youtube.com/watch?v=dGU6nmZe2e4) 
 
 For this one story, I haven't done the animation part yet but it took me around 6 hours to make. I think the more I do it though the faster that it'll get!
