@@ -275,7 +275,7 @@ Goals for capstone in general:
 * come up with a new timeline
 * narrow down who I want on my panel!
 
-## <a name="week11"></a>Week 11
+## <a name="week12"></a>Week 12
 ### General progress ###
 I decided to reach out to Laura this week to ask if I could talk to her about her artworks, inspirations, and how she works on her projects in the hopes to get a better sense of direction with my own project. As I mentioned last week, I was very stuck on what style I want my augmented stories to be like and especially what form they should take. Despite sketching these designs out, I still had no clue what to do. Talking to Laura was soooooo helpful! Although we didn't explicitly talk about how exactly my project would look, she pointed some examples to me of artists and projects I could look at and some general ways I could go about implementing my ideas and putting them in a way that I could make a prototype out of (not just sketches). I came out of the meeting feeling very inspired to work on my project, and a couple of hours after the meeting, I was set on what I wanted my AR experience to look like. I will show a bit of this in the app progress section below. 
 
