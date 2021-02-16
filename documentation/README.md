@@ -12,7 +12,8 @@
 * [Week 10 — I took a break, and this is what happened...](#week10) 
 * [Week 11](#week11)
 * [Week 12](#week12)
-* [Week 13](#week13)
+* [Week 13](#week13) 
+
 Note: Week numbers do not necessarily correspond to the weeks in the Fall semester, rather they are just fillers for day of reflection. 
 
 ## <a name="week1"></a> Week 1
@@ -302,4 +303,20 @@ By next week, I'm going to have:
 
 ## <a name="week13"></a>Week 13
 ### General progress ###
-This week, I focused on mostly my cookbook and one other augmented story. I still haven't worked on doing the animation aspect of the first experience yet because I wanted to make sure to put my attention towards the things that I felt were more urgent in this current part of my Capstone. 
+This week, I focused on mostly my cookbook and one other augmented story. I still haven't worked on doing the animation aspect of the first experience yet because I wanted to make sure to put my attention towards the things that I felt were more urgent in this current part of my Capstone, which is getting the cookbook finished. 
+
+### App progress ###
+As I mentioned above, I was able to work on another augmented story experience and make it work to the same effect as the first one. Although I was very hoepful last time that it would take me less time to finish each one after the first, because the illustration was more complicated, it still took me the same (if not, more) time than I thought it would. Nevertheless, here is a video of this experience. 
+
+[![capstone app prototype 3](https://img.youtube.com/vi/JV7pEZvw1hk/0.jpg)](https://www.youtube.com/watch?v=JV7pEZvw1hk) 
+
+### Book progress ###
+I managed to get a significant portion of the book done this week. I got the pictures and the illustrations ready and I just need to finalise the recipes before I make a final edit of the book and user-test it to make sure that the recipes are written as clearly as possible. After that, I can send off the book to be printed!
+
+### Goals for next week ###
+By next week, I'm going to have:
+* finish the first draft of the cookbook with image anchors transferred across onto Unity
+* start working on the prototype of the timeline AR component of the app 
+* continue to work on the AR stories' illustrations 
+
+
