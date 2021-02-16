@@ -12,7 +12,7 @@
 * [Week 10 — I took a break, and this is what happened...](#week10) 
 * [Week 11](#week11)
 * [Week 12](#week12)
-
+* [Week 13](#week13)
 Note: Week numbers do not necessarily correspond to the weeks in the Fall semester, rather they are just fillers for day of reflection. 
 
 ## <a name="week1"></a> Week 1
@@ -299,3 +299,7 @@ By next week, I'm going to have:
 * finish the first draft of the cookbook so that I could get the correct image anchors working 
 * finish the animation part of the first augmented experience 
 * illustrate a second story and have the layers transported into Unity
+
+## <a name="week13"></a>Week 13
+### General progress ###
+This week, I focused on mostly my cookbook and one other augmented story. I still haven't worked on doing the animation aspect of the first experience yet because I wanted to make sure to put my attention towards the things that I felt were more urgent in this current part of my Capstone. 
