@@ -320,9 +320,12 @@ By next week, I'm going to have:
 * start working on the prototype of the timeline AR component of the app 
 * continue to work on the AR stories' illustrations 
 
-## <a name="week13"></a>Week 13
+## <a name="week13"></a>Week 14
 ### General progress ###
 I did not really make any progress this week. But here is my cookbook design. I will come back and hopefully update this blog post when I feel better...
 
-<img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week13_1.jpg" width="50%"><img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week13_2.jpg" width="50%">
+Front and back cover:
+<img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week13_1.png" width="50%"> 
+One of the page spreads: 
+<img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week13_2.png" width="50%">
 
