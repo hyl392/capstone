@@ -13,6 +13,7 @@
 * [Week 11](#week11)
 * [Week 12](#week12)
 * [Week 13](#week13) 
+* [Week 14](#week14) 
 
 Note: Week numbers do not necessarily correspond to the weeks in the Fall semester, rather they are just fillers for day of reflection. 
 
@@ -319,4 +320,9 @@ By next week, I'm going to have:
 * start working on the prototype of the timeline AR component of the app 
 * continue to work on the AR stories' illustrations 
 
+## <a name="week13"></a>Week 13
+### General progress ###
+I did not really make any progress this week. But here is my cookbook design. I will come back and hopefully update this blog post when I feel better...
+
+<img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week13_1.jpg" width="50%"><img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week13_2.jpg" width="50%">
 
