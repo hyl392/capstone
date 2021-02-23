@@ -320,7 +320,7 @@ By next week, I'm going to have:
 * start working on the prototype of the timeline AR component of the app 
 * continue to work on the AR stories' illustrations 
 
-## <a name="week13"></a>Week 14
+## <a name="week14"></a>Week 14
 ### General progress ###
 I did not really make any progress this week. But here is my cookbook design. I will come back and hopefully update this blog post when I feel better...
 
