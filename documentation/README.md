@@ -325,8 +325,10 @@ By next week, I'm going to have:
 I did not really make any progress this week. But here is my cookbook design. I will come back and hopefully update this blog post when I feel better...
 
 Front and back cover:
+
 <img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week13_1.png" width="50%"> 
 
 One of the page spreads: 
+
 <img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week13_2.png" width="50%">
 
