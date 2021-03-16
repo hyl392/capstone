@@ -14,7 +14,7 @@
 * [Week 12](#week12)
 * [Week 13](#week13) 
 * [Week 14](#week14) 
-* [Week 15](#week15) 
+* [Week 15 — Community Milestone Presentation & Spring Break?](#week15) 
 
 Note: Week numbers do not necessarily correspond to the weeks in the Fall semester, rather they are just fillers for day of reflection. 
 
@@ -340,7 +340,7 @@ Week 14.5 was the community milestone presentation. For that week, I was despera
 This video contains all the prototypes that I also presented in the community milestone presentation: 
 [![capstone app prototype 5](https://img.youtube.com/vi/w0AI7tY0-Ek/0.jpg)](https://youtu.be/w0AI7tY0-Ek) 
 
-<a href="https://docs.google.com/presentation/d/1EPurH6PnBf7lULYlcZMSPffr5MIzS6PkcPvX8g5jsek/edit?usp=sharing">Here </a>is the link to my community milestone presentation where the design mimics that of a cookbook: 
+<a href="https://docs.google.com/presentation/d/1EPurH6PnBf7lULYlcZMSPffr5MIzS6PkcPvX8g5jsek/edit?usp=sharing">Here </a>is the link to my community milestone presentation where the design mimics that of a cookbook.
 
 ### Cookbook updates ###
 Spring Break was not much of a break...but we all expected it to be like that. I had overestimated how much left of the cookbook I needed to finish and, therefore, spent a significant amount of time during the break trying to finish it. This process included going back and making sure that all the text fit on the pages and the pictures were nicely placed and formatted in the way that I wanted it to be. Instead of the 30 pages that I had initially envisioned, the cookbook has 56 pages (incl. 4 blank pages but still...). Thankfully, I was able to get the first version of the cookbook made and have found 6/7 people to user-test the cookbook for part 1 of the solicited feedback. I have shared my cookbook with the user-testers and will have them fill out a Google Form to give feedback.
@@ -359,6 +359,12 @@ What do I have to do for next week:
 * animation and audio recording of the 3D pop-up book effect of the 3 stories that I currently have
 * user test the cookbook with the app, compile feedback, and see if any necessary changes need to be made
 
+Things I need to get done in general before the submission date in three (!!!!!) weeks:
+* app front (start/loading) scene
+* app instruction scene 
+* have a story for each dish prepared and voice recorded
+* two more 3D pop-up book effect stories, animated, and voiceover translated
 
+I'm envisioning a lot more breakdowns and lots of crying and screaming in the next three weeks...
 
 
