@@ -14,6 +14,7 @@
 * [Week 12](#week12)
 * [Week 13](#week13) 
 * [Week 14](#week14) 
+* [Week 15](#week15) 
 
 Note: Week numbers do not necessarily correspond to the weeks in the Fall semester, rather they are just fillers for day of reflection. 
 
@@ -322,7 +323,7 @@ By next week, I'm going to have:
 
 ## <a name="week14"></a>Week 14
 ### General progress ###
-I did not really make any progress this week. But here is my cookbook design. I will come back and hopefully update this blog post when I feel better...
+I did not really make any progress this week. But here is my cookbook design. 
 
 Front and back cover:
 
@@ -331,4 +332,34 @@ Front and back cover:
 One of the page spreads: 
 
 <img src="https://github.com/hyl392/capstone/blob/master/documentation/images/week13_2.png" width="50%">
+
+## <a name="week15"></a>Week 15
+### Community Milestone Presentation ###
+Week 14.5 was the community milestone presentation. For that week, I was desperately trying to get the timeline prototype that I had made last semester tranferred to my project now. This proved harder than a simple copy paste. I, however, managed to spring up something that just about satisfied what I wanted to create and was thankfully able to present this as part of my presentation. 
+
+This video contains all the prototypes that I also presented in the community milestone presentation: 
+[![capstone app prototype 5](https://img.youtube.com/vi/w0AI7tY0-Ek/0.jpg)](https://youtu.be/w0AI7tY0-Ek) 
+
+Here is the link to my community milestone presentation where the design mimics that of a cookbook: 
+<a href="https://docs.google.com/presentation/d/1EPurH6PnBf7lULYlcZMSPffr5MIzS6PkcPvX8g5jsek/edit?usp=sharing"> 
+
+### Cookbook updates ###
+Spring Break was not much of a break...but we all expected it to be like that. I had overestimated how much left of the cookbook I needed to finish and, therefore, spent a significant amount of time during the break trying to finish it. This process included going back and making sure that all the text fit on the pages and the pictures were nicely placed and formatted in the way that I wanted it to be. Instead of the 30 pages that I had initially envisioned, the cookbook has 56 pages (incl. 4 blank pages but still...). Thankfully, I was able to get the first version of the cookbook made and have found 6/7 people to user-test the cookbook for part 1 of the solicited feedback. I have shared my cookbook with the user-testers and will have them fill out a Google Form to give feedback.
+
+### App updates ###
+At the same time, over the break, I was able to make another 3D layered AR story, making the total drawn to 3. I still have not animated them yet though.
+
+I was able to upload all the correct image targets (I hope) to Vuforia Engine and have the right database attached to my app. This means that now when the right image anchors that show up in the cookbook are tracked, the right interactions will show up. 
+
+As well, I was able to get the timeline fixed and looking more and more like the final product of what I want it to be like. I ran into a big problem with the timeline that took me forever to figure out and it was to do with the videos for each step not showing up. After a long period of trial and error (and lots of frustration), I was able to get it to work. 
+
+What do I have to do for next week:
+* compile feedback on the cookbook and make any necessary changes
+* if possible, send it off to print
+* finalise the format of the timeline and apply it to a couple out of the 17 of the dishes with all the necessary instructions and videos uploaded (just enough for user-testing purposes)
+* animation and audio recording of the 3D pop-up book effect of the 3 stories that I currently have
+* user test the cookbook with the app, compile feedback, and see if any necessary changes need to be made
+
+
+
 
