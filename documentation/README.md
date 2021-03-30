@@ -18,7 +18,7 @@
 * [Week 16](#week16) 
 * [Week 17](#week17) 
 
-Note: Week numbers do not necessarily correspond to the weeks in the Fall semester, rather they are just fillers for day of reflection. 
+Note: Week numbers do not necessarily correspond to the weeks in the semester, rather they are just fillers for day of reflection. 
 
 ## <a name="week1"></a> Week 1
 ### The week full of question marks, more question marks, and more question marks
