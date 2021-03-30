@@ -15,6 +15,7 @@
 * [Week 13](#week13) 
 * [Week 14](#week14) 
 * [Week 15 — Community Milestone Presentation & Spring Break?](#week15) 
+* [Week 16](#week16) 
 
 Note: Week numbers do not necessarily correspond to the weeks in the Fall semester, rather they are just fillers for day of reflection. 
 
@@ -367,4 +368,10 @@ Things I need to get done in general before the submission date in three (!!!!!)
 
 I'm envisioning a lot more breakdowns and lots of crying and screaming in the next three weeks...
 
+## <a name="week16"></a>Week 16
+(Writing this a week later) Apparently what I wrote here didn't save so here's my attempt to summarise what happened last week:
+* finished part 1 and part 2 of the usertesting (i.e. the cookbook and the app separately)
+* from the feebdack and writing the solicited feedback report, realised I have A LOT of changes to make 
+* also realised that the iPad that I originally got from the IM lab (because they don't have iPhones) will not replicate the iPhone experience that I had built meaning that I have to find a new way to distribute the app for my panelists 
+* lots of stress
 
