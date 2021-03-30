@@ -16,6 +16,7 @@
 * [Week 14](#week14) 
 * [Week 15 — Community Milestone Presentation & Spring Break?](#week15) 
 * [Week 16](#week16) 
+* [Week 17](#week17) 
 
 Note: Week numbers do not necessarily correspond to the weeks in the Fall semester, rather they are just fillers for day of reflection. 
 
@@ -375,3 +376,12 @@ I'm envisioning a lot more breakdowns and lots of crying and screaming in the ne
 * also realised that the iPad that I originally got from the IM lab (because they don't have iPhones) will not replicate the iPhone experience that I had built meaning that I have to find a new way to distribute the app for my panelists 
 * lots of stress
 
+## <a name="week17"></a>Week 17
+### General progress ###
+Taking in the feedback from the user-tests, I've worked extensively on the app and the book this week to make the changes that I wanted to make and to continue on the path to getting the project to a somewhat more presentable state. 
+
+The book is just about ready to head to the printer and I will do that this week after a final review. I've gone through the recipes to make sure they line up in the exact order that I have recorded them and made sure that the formatting works out. As well, I'm making some final changes to the structure of the book, adding a new page spread on some more information that I think is useful in explaining the book, and changing the section headings. At the same time of reviewing the recipes, I'm also editing the videos that I have captured last semester for them to be used for the timeline. 
+
+The progress of the app is slower and I have gone back to almost square zero.... but it's still going and I'm trying my best to power through. I really wanted to implement changes that made the app a lot less overwhelming and so had to change the structure of the components. But I hope that what I have currently will be a lot better. In particular, I changed the timeline option to one where instead of having a few steps pop-up on the screen at a time, have only one at a time where users through a scrolling or click motion, navigate through each instruction separately, one at a time. To do this though, I had to figure out how to work the scroll-snap so that each instruction snaps onto the screen one at a time and is not just floating where the user has to place them so that they are exact on their screen. This took a couple of days to figure out. 
+
+I also have to add the user-testing feedback into my Capstone paper and make necessary changes as well. 
